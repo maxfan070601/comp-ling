@@ -1,1 +1,3 @@
+# Computational Linguistics Tutorial Fall 2024
+
 Some projects from my computational linguistics tutorial, taken Fall 2024 with Mr. Gnozzio. Based on content from Jurafsky and Martin's Speech and Language Processing textbook. https://web.stanford.edu/~jurafsky/slp3/
